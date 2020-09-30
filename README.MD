@@ -1,11 +1,9 @@
-# Log Movie Name
+# Pausing Gifs
 
 ## File
 
-* [`click-json`](Unsolved/click-json.html)
+* [`pausing-gifs`](Unsolved/pausing-gifs.html)
 
 ## Instructions
 
-* Using the Starter code provided, create the missing code snippets inside the `displayMovieInfo()` function necessary to display JSON data about each movie.
-
-* **HINT:** You should use HTML `data-` attributes.
+* Using the comments provided in the code, add in the code necessary to provide stop/start animation to your application.
